@@ -2,8 +2,6 @@ Here's the corrected `README.md` with more precise language about the time savin
 
 # LexAI - AI-Powered Legal Contract Analysis Assistant
 
-![LexAI Logo](https://via.placeholder.com/150) *(Consider adding a logo if available)*
-
 ## Overview
 
 LexAI is an advanced AI-powered legal assistant designed to automate contract analysis and streamline compliance evaluation. By leveraging state-of-the-art NLP technologies, LexAI intelligently extracts, analyzes, and compares contract clauses to identify potential compliance risks with unprecedented efficiency.
