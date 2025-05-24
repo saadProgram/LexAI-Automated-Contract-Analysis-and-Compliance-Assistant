@@ -3,7 +3,7 @@
 
 ## Overview
 
-LexAI is an advanced AI-powered legal assistant designed to automate contract analysis and streamline compliance evaluation. By leveraging state-of-the-art NLP, LLM, and Agentic AI technologies, LexAI intelligently extracts, analyzes, and compares contract clauses to identify potential compliance risks with unprecedented efficiency.
+LexAI is an advanced AI-powered legal assistant designed to automate contract analysis and streamline compliance evaluation. By leveraging SQLite, state-of-the-art NLP, LLM, and Agentic AI technologies, LexAI intelligently extracts, analyzes, and compares contract clauses to identify potential compliance risks with unprecedented efficiency.
 
 ## Key Features
 
