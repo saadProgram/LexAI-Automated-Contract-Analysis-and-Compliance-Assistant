@@ -1,0 +1,1 @@
+# LexAI-Automated-Contract-Analysis-and-Compliance-Assistant
